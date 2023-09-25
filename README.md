@@ -1,1 +1,0 @@
-# chess3_construction

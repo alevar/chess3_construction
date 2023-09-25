@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/avaraby1/soft/tiebrush/_deps/gclib-subbuild/CMakeFiles/gclib-populate"
+		},
+		{
+			"file" : "/home/avaraby1/soft/tiebrush/_deps/gclib-subbuild/CMakeFiles/gclib-populate.rule"
+		},
+		{
+			"file" : "/home/avaraby1/soft/tiebrush/_deps/gclib-subbuild/CMakeFiles/gclib-populate-complete.rule"
+		},
+		{
+			"file" : "/home/avaraby1/soft/tiebrush/_deps/gclib-subbuild/gclib-populate-prefix/src/gclib-populate-stamp/gclib-populate-install.rule"
+		},
+		{
+			"file" : "/home/avaraby1/soft/tiebrush/_deps/gclib-subbuild/gclib-populate-prefix/src/gclib-populate-stamp/gclib-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/avaraby1/soft/tiebrush/_deps/gclib-subbuild/gclib-populate-prefix/src/gclib-populate-stamp/gclib-populate-download.rule"
+		},
+		{
+			"file" : "/home/avaraby1/soft/tiebrush/_deps/gclib-subbuild/gclib-populate-prefix/src/gclib-populate-stamp/gclib-populate-update.rule"
+		},
+		{
+			"file" : "/home/avaraby1/soft/tiebrush/_deps/gclib-subbuild/gclib-populate-prefix/src/gclib-populate-stamp/gclib-populate-patch.rule"
+		},
+		{
+			"file" : "/home/avaraby1/soft/tiebrush/_deps/gclib-subbuild/gclib-populate-prefix/src/gclib-populate-stamp/gclib-populate-configure.rule"
+		},
+		{
+			"file" : "/home/avaraby1/soft/tiebrush/_deps/gclib-subbuild/gclib-populate-prefix/src/gclib-populate-stamp/gclib-populate-build.rule"
+		},
+		{
+			"file" : "/home/avaraby1/soft/tiebrush/_deps/gclib-subbuild/gclib-populate-prefix/src/gclib-populate-stamp/gclib-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"gclib-populate"
+		],
+		"name" : "gclib-populate"
+	}
+}
